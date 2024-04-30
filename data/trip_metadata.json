@@ -1,0 +1,46 @@
+{
+    "id": "79b2c991-36aa-4fac-8756-a181a5fa282d",
+    "version": "1.0.0",
+    "eventTime": "2024-04-16T16:25:24.262164Z",
+    "eventType": "tripData",
+    "data": {
+        "entitlement": {
+            "customerId": "ef28f877-206a-44c3-8af9-713f54657482",
+            "locale": "en-US"
+        },
+        "privacy": {
+            "isPrivacyModeEnabled": false
+        },
+        "policy": {
+            "inUseAt": "2024-03-19T16:25:24.262139Z",
+            "retrievedAt": "2024-03-19T16:30:24.262139Z",
+            "vehicle": {
+                "vin": "VIN100362"
+            },
+            "policies": [
+                {
+                    "id": "78cd5a7b-7f6f-4cb8-b0cd-245a72bd2cf8",
+                    "vehicleSignals": [
+                        "speed",
+                        "location"
+                    ],
+                    "notBefore": "2024-03-19T16:25:24.262139Z",
+                    "expiresAt": "2024-03-19T16:30:24.262139Z"
+                }
+            ]
+        },
+        "trip": {
+            "vin": "VIN100362",
+            "tripId": "7cc5df0d-4b72-4b2b-b1ed-20835a1b7f4b",
+            "tripDistance": 34.67,
+            "tripStartTimestamp": "2024-03-19 16:25:24.262139",
+            "tripStartLat": 51.682554,
+            "tripStartLon": -0.15153,
+            "tripEndTimestamp": "2024-03-19 16:30:24.262139",
+            "tripEndLat": 51.688616,
+            "tripEndLon": -0.15645799999999999,
+            "fuelLevel": 86,
+            "url": "https://trip-service.toyotaconnectedeurope.io/trip?vin=VIN100362&tripStartTimestamp=2024-03-19T16:25:24.262139Z"
+        }
+    }
+}

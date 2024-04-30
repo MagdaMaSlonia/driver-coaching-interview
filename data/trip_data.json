@@ -1,0 +1,2108 @@
+{
+    "tripId": "7cc5df0d-4b72-4b2b-b1ed-20835a1b7f4b",
+    "vin": "VIN100362",
+    "tripStartTimestamp": "2024-03-19T16:25:24.262139Z",
+    "tripEndTimestamp": "2024-03-19T16:30:24.262139Z",
+    "events": [
+        {
+            "gps_quality": 1,
+            "lat": 51.119457,
+            "lng": 0.38939,
+            "recorded_at": "2024-03-19T16:25:24Z",
+            "speed": 38
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119459,
+            "lng": 0.389392,
+            "recorded_at": "2024-03-19T16:25:25Z",
+            "speed": 30
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.11946,
+            "lng": 0.389393,
+            "recorded_at": "2024-03-19T16:25:26Z",
+            "speed": 52
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119462,
+            "lng": 0.389395,
+            "recorded_at": "2024-03-19T16:25:27Z",
+            "speed": 95
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119464,
+            "lng": 0.389397,
+            "recorded_at": "2024-03-19T16:25:28Z",
+            "speed": 75
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119465,
+            "lng": 0.389398,
+            "recorded_at": "2024-03-19T16:25:29Z",
+            "speed": 45
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119467,
+            "lng": 0.3894,
+            "recorded_at": "2024-03-19T16:25:30Z",
+            "speed": 52
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119469,
+            "lng": 0.389402,
+            "recorded_at": "2024-03-19T16:25:31Z",
+            "speed": 96
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.11947,
+            "lng": 0.389403,
+            "recorded_at": "2024-03-19T16:25:32Z",
+            "speed": 99
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119472,
+            "lng": 0.389405,
+            "recorded_at": "2024-03-19T16:25:33Z",
+            "speed": 34
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119474,
+            "lng": 0.389407,
+            "recorded_at": "2024-03-19T16:25:34Z",
+            "speed": 33
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119475,
+            "lng": 0.389408,
+            "recorded_at": "2024-03-19T16:25:35Z",
+            "speed": 63
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119477,
+            "lng": 0.38941,
+            "recorded_at": "2024-03-19T16:25:36Z",
+            "speed": 31
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119479,
+            "lng": 0.389412,
+            "recorded_at": "2024-03-19T16:25:37Z",
+            "speed": 99
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.11948,
+            "lng": 0.389413,
+            "recorded_at": "2024-03-19T16:25:38Z",
+            "speed": 73
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119482,
+            "lng": 0.389415,
+            "recorded_at": "2024-03-19T16:25:39Z",
+            "speed": 24
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119484,
+            "lng": 0.389417,
+            "recorded_at": "2024-03-19T16:25:40Z",
+            "speed": 43
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119485,
+            "lng": 0.389418,
+            "recorded_at": "2024-03-19T16:25:41Z",
+            "speed": 91
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119487,
+            "lng": 0.38942,
+            "recorded_at": "2024-03-19T16:25:42Z",
+            "speed": 67
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119489,
+            "lng": 0.389422,
+            "recorded_at": "2024-03-19T16:25:43Z",
+            "speed": 71
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.11949,
+            "lng": 0.389423,
+            "recorded_at": "2024-03-19T16:25:44Z",
+            "speed": 30
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119492,
+            "lng": 0.389425,
+            "recorded_at": "2024-03-19T16:25:45Z",
+            "speed": 75
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119494,
+            "lng": 0.389427,
+            "recorded_at": "2024-03-19T16:25:46Z",
+            "speed": 54
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119495,
+            "lng": 0.389428,
+            "recorded_at": "2024-03-19T16:25:47Z",
+            "speed": 25
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119497,
+            "lng": 0.38943,
+            "recorded_at": "2024-03-19T16:25:48Z",
+            "speed": 87
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119499,
+            "lng": 0.389432,
+            "recorded_at": "2024-03-19T16:25:49Z",
+            "speed": 65
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.1195,
+            "lng": 0.389433,
+            "recorded_at": "2024-03-19T16:25:50Z",
+            "speed": 86
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119502,
+            "lng": 0.389435,
+            "recorded_at": "2024-03-19T16:25:51Z",
+            "speed": 43
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119504,
+            "lng": 0.389437,
+            "recorded_at": "2024-03-19T16:25:52Z",
+            "speed": 70
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119505,
+            "lng": 0.389438,
+            "recorded_at": "2024-03-19T16:25:53Z",
+            "speed": 46
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119507,
+            "lng": 0.38944,
+            "recorded_at": "2024-03-19T16:25:54Z",
+            "speed": 31
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119509,
+            "lng": 0.389442,
+            "recorded_at": "2024-03-19T16:25:55Z",
+            "speed": 28
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.11951,
+            "lng": 0.389443,
+            "recorded_at": "2024-03-19T16:25:56Z",
+            "speed": 79
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119512,
+            "lng": 0.389445,
+            "recorded_at": "2024-03-19T16:25:57Z",
+            "speed": 51
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119514,
+            "lng": 0.389447,
+            "recorded_at": "2024-03-19T16:25:58Z",
+            "speed": 30
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119515,
+            "lng": 0.389448,
+            "recorded_at": "2024-03-19T16:25:59Z",
+            "speed": 30
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119517,
+            "lng": 0.38945,
+            "recorded_at": "2024-03-19T16:26:00Z",
+            "speed": 64
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119519,
+            "lng": 0.389452,
+            "recorded_at": "2024-03-19T16:26:01Z",
+            "speed": 50
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.11952,
+            "lng": 0.389453,
+            "recorded_at": "2024-03-19T16:26:02Z",
+            "speed": 34
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119522,
+            "lng": 0.389455,
+            "recorded_at": "2024-03-19T16:26:03Z",
+            "speed": 84
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119524,
+            "lng": 0.389457,
+            "recorded_at": "2024-03-19T16:26:04Z",
+            "speed": 31
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119525,
+            "lng": 0.389458,
+            "recorded_at": "2024-03-19T16:26:05Z",
+            "speed": 73
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119527,
+            "lng": 0.38946,
+            "recorded_at": "2024-03-19T16:26:06Z",
+            "speed": 40
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119529,
+            "lng": 0.389462,
+            "recorded_at": "2024-03-19T16:26:07Z",
+            "speed": 64
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.11953,
+            "lng": 0.389463,
+            "recorded_at": "2024-03-19T16:26:08Z",
+            "speed": 58
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119532,
+            "lng": 0.389465,
+            "recorded_at": "2024-03-19T16:26:09Z",
+            "speed": 56
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119534,
+            "lng": 0.389467,
+            "recorded_at": "2024-03-19T16:26:10Z",
+            "speed": 75
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119535,
+            "lng": 0.389468,
+            "recorded_at": "2024-03-19T16:26:11Z",
+            "speed": 36
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119537,
+            "lng": 0.38947,
+            "recorded_at": "2024-03-19T16:26:12Z",
+            "speed": 43
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119539,
+            "lng": 0.389472,
+            "recorded_at": "2024-03-19T16:26:13Z",
+            "speed": 82
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.11954,
+            "lng": 0.389473,
+            "recorded_at": "2024-03-19T16:26:14Z",
+            "speed": 86
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119542,
+            "lng": 0.389475,
+            "recorded_at": "2024-03-19T16:26:15Z",
+            "speed": 87
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119544,
+            "lng": 0.389477,
+            "recorded_at": "2024-03-19T16:26:16Z",
+            "speed": 59
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119545,
+            "lng": 0.389478,
+            "recorded_at": "2024-03-19T16:26:17Z",
+            "speed": 51
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119547,
+            "lng": 0.38948,
+            "recorded_at": "2024-03-19T16:26:18Z",
+            "speed": 63
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119549,
+            "lng": 0.389482,
+            "recorded_at": "2024-03-19T16:26:19Z",
+            "speed": 78
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.11955,
+            "lng": 0.389483,
+            "recorded_at": "2024-03-19T16:26:20Z",
+            "speed": 79
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119552,
+            "lng": 0.389485,
+            "recorded_at": "2024-03-19T16:26:21Z",
+            "speed": 96
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119554,
+            "lng": 0.389487,
+            "recorded_at": "2024-03-19T16:26:22Z",
+            "speed": 65
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119555,
+            "lng": 0.389488,
+            "recorded_at": "2024-03-19T16:26:23Z",
+            "speed": 26
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119557,
+            "lng": 0.38949,
+            "recorded_at": "2024-03-19T16:26:24Z",
+            "speed": 51
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119559,
+            "lng": 0.389492,
+            "recorded_at": "2024-03-19T16:26:25Z",
+            "speed": 31
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.11956,
+            "lng": 0.389493,
+            "recorded_at": "2024-03-19T16:26:26Z",
+            "speed": 94
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119562,
+            "lng": 0.389495,
+            "recorded_at": "2024-03-19T16:26:27Z",
+            "speed": 81
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119564,
+            "lng": 0.389497,
+            "recorded_at": "2024-03-19T16:26:28Z",
+            "speed": 44
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119565,
+            "lng": 0.389498,
+            "recorded_at": "2024-03-19T16:26:29Z",
+            "speed": 21
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119567,
+            "lng": 0.3895,
+            "recorded_at": "2024-03-19T16:26:30Z",
+            "speed": 74
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119569,
+            "lng": 0.389502,
+            "recorded_at": "2024-03-19T16:26:31Z",
+            "speed": 96
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.11957,
+            "lng": 0.389503,
+            "recorded_at": "2024-03-19T16:26:32Z",
+            "speed": 48
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119572,
+            "lng": 0.389505,
+            "recorded_at": "2024-03-19T16:26:33Z",
+            "speed": 97
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119574,
+            "lng": 0.389507,
+            "recorded_at": "2024-03-19T16:26:34Z",
+            "speed": 23
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119575,
+            "lng": 0.389508,
+            "recorded_at": "2024-03-19T16:26:35Z",
+            "speed": 29
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119577,
+            "lng": 0.38951,
+            "recorded_at": "2024-03-19T16:26:36Z",
+            "speed": 72
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119579,
+            "lng": 0.389512,
+            "recorded_at": "2024-03-19T16:26:37Z",
+            "speed": 91
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.11958,
+            "lng": 0.389513,
+            "recorded_at": "2024-03-19T16:26:38Z",
+            "speed": 53
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119582,
+            "lng": 0.389515,
+            "recorded_at": "2024-03-19T16:26:39Z",
+            "speed": 92
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119584,
+            "lng": 0.389517,
+            "recorded_at": "2024-03-19T16:26:40Z",
+            "speed": 68
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119585,
+            "lng": 0.389518,
+            "recorded_at": "2024-03-19T16:26:41Z",
+            "speed": 20
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119587,
+            "lng": 0.38952,
+            "recorded_at": "2024-03-19T16:26:42Z",
+            "speed": 37
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119589,
+            "lng": 0.389522,
+            "recorded_at": "2024-03-19T16:26:43Z",
+            "speed": 28
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.11959,
+            "lng": 0.389523,
+            "recorded_at": "2024-03-19T16:26:44Z",
+            "speed": 88
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119592,
+            "lng": 0.389525,
+            "recorded_at": "2024-03-19T16:26:45Z",
+            "speed": 39
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119594,
+            "lng": 0.389527,
+            "recorded_at": "2024-03-19T16:26:46Z",
+            "speed": 64
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119595,
+            "lng": 0.389528,
+            "recorded_at": "2024-03-19T16:26:47Z",
+            "speed": 35
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119597,
+            "lng": 0.38953,
+            "recorded_at": "2024-03-19T16:26:48Z",
+            "speed": 30
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119599,
+            "lng": 0.389532,
+            "recorded_at": "2024-03-19T16:26:49Z",
+            "speed": 87
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.1196,
+            "lng": 0.389533,
+            "recorded_at": "2024-03-19T16:26:50Z",
+            "speed": 58
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119602,
+            "lng": 0.389535,
+            "recorded_at": "2024-03-19T16:26:51Z",
+            "speed": 55
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119604,
+            "lng": 0.389537,
+            "recorded_at": "2024-03-19T16:26:52Z",
+            "speed": 96
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119605,
+            "lng": 0.389538,
+            "recorded_at": "2024-03-19T16:26:53Z",
+            "speed": 58
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119607,
+            "lng": 0.38954,
+            "recorded_at": "2024-03-19T16:26:54Z",
+            "speed": 39
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119609,
+            "lng": 0.389542,
+            "recorded_at": "2024-03-19T16:26:55Z",
+            "speed": 98
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.11961,
+            "lng": 0.389543,
+            "recorded_at": "2024-03-19T16:26:56Z",
+            "speed": 29
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119612,
+            "lng": 0.389545,
+            "recorded_at": "2024-03-19T16:26:57Z",
+            "speed": 93
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119614,
+            "lng": 0.389547,
+            "recorded_at": "2024-03-19T16:26:58Z",
+            "speed": 59
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119615,
+            "lng": 0.389548,
+            "recorded_at": "2024-03-19T16:26:59Z",
+            "speed": 64
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119617,
+            "lng": 0.38955,
+            "recorded_at": "2024-03-19T16:27:00Z",
+            "speed": 35
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119619,
+            "lng": 0.389552,
+            "recorded_at": "2024-03-19T16:27:01Z",
+            "speed": 73
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.11962,
+            "lng": 0.389553,
+            "recorded_at": "2024-03-19T16:27:02Z",
+            "speed": 57
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119622,
+            "lng": 0.389555,
+            "recorded_at": "2024-03-19T16:27:03Z",
+            "speed": 66
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119624,
+            "lng": 0.389557,
+            "recorded_at": "2024-03-19T16:27:04Z",
+            "speed": 66
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119625,
+            "lng": 0.389558,
+            "recorded_at": "2024-03-19T16:27:05Z",
+            "speed": 85
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119627,
+            "lng": 0.38956,
+            "recorded_at": "2024-03-19T16:27:06Z",
+            "speed": 25
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119629,
+            "lng": 0.389562,
+            "recorded_at": "2024-03-19T16:27:07Z",
+            "speed": 44
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.11963,
+            "lng": 0.389563,
+            "recorded_at": "2024-03-19T16:27:08Z",
+            "speed": 29
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119632,
+            "lng": 0.389565,
+            "recorded_at": "2024-03-19T16:27:09Z",
+            "speed": 70
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119634,
+            "lng": 0.389567,
+            "recorded_at": "2024-03-19T16:27:10Z",
+            "speed": 65
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119635,
+            "lng": 0.389568,
+            "recorded_at": "2024-03-19T16:27:11Z",
+            "speed": 87
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119637,
+            "lng": 0.38957,
+            "recorded_at": "2024-03-19T16:27:12Z",
+            "speed": 78
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119639,
+            "lng": 0.389572,
+            "recorded_at": "2024-03-19T16:27:13Z",
+            "speed": 72
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.11964,
+            "lng": 0.389573,
+            "recorded_at": "2024-03-19T16:27:14Z",
+            "speed": 78
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119642,
+            "lng": 0.389575,
+            "recorded_at": "2024-03-19T16:27:15Z",
+            "speed": 46
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119644,
+            "lng": 0.389577,
+            "recorded_at": "2024-03-19T16:27:16Z",
+            "speed": 44
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119645,
+            "lng": 0.389578,
+            "recorded_at": "2024-03-19T16:27:17Z",
+            "speed": 85
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119647,
+            "lng": 0.38958,
+            "recorded_at": "2024-03-19T16:27:18Z",
+            "speed": 80
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119649,
+            "lng": 0.389582,
+            "recorded_at": "2024-03-19T16:27:19Z",
+            "speed": 94
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.11965,
+            "lng": 0.389583,
+            "recorded_at": "2024-03-19T16:27:20Z",
+            "speed": 85
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119652,
+            "lng": 0.389585,
+            "recorded_at": "2024-03-19T16:27:21Z",
+            "speed": 31
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119654,
+            "lng": 0.389587,
+            "recorded_at": "2024-03-19T16:27:22Z",
+            "speed": 75
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119655,
+            "lng": 0.389588,
+            "recorded_at": "2024-03-19T16:27:23Z",
+            "speed": 31
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119657,
+            "lng": 0.38959,
+            "recorded_at": "2024-03-19T16:27:24Z",
+            "speed": 36
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119659,
+            "lng": 0.389592,
+            "recorded_at": "2024-03-19T16:27:25Z",
+            "speed": 35
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.11966,
+            "lng": 0.389593,
+            "recorded_at": "2024-03-19T16:27:26Z",
+            "speed": 72
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119662,
+            "lng": 0.389595,
+            "recorded_at": "2024-03-19T16:27:27Z",
+            "speed": 52
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119664,
+            "lng": 0.389597,
+            "recorded_at": "2024-03-19T16:27:28Z",
+            "speed": 79
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119665,
+            "lng": 0.389598,
+            "recorded_at": "2024-03-19T16:27:29Z",
+            "speed": 72
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119667,
+            "lng": 0.3896,
+            "recorded_at": "2024-03-19T16:27:30Z",
+            "speed": 67
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119669,
+            "lng": 0.389602,
+            "recorded_at": "2024-03-19T16:27:31Z",
+            "speed": 38
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.11967,
+            "lng": 0.389603,
+            "recorded_at": "2024-03-19T16:27:32Z",
+            "speed": 62
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119672,
+            "lng": 0.389605,
+            "recorded_at": "2024-03-19T16:27:33Z",
+            "speed": 77
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119674,
+            "lng": 0.389607,
+            "recorded_at": "2024-03-19T16:27:34Z",
+            "speed": 60
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119675,
+            "lng": 0.389608,
+            "recorded_at": "2024-03-19T16:27:35Z",
+            "speed": 57
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119677,
+            "lng": 0.38961,
+            "recorded_at": "2024-03-19T16:27:36Z",
+            "speed": 24
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119679,
+            "lng": 0.389612,
+            "recorded_at": "2024-03-19T16:27:37Z",
+            "speed": 60
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.11968,
+            "lng": 0.389613,
+            "recorded_at": "2024-03-19T16:27:38Z",
+            "speed": 78
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119682,
+            "lng": 0.389615,
+            "recorded_at": "2024-03-19T16:27:39Z",
+            "speed": 36
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119684,
+            "lng": 0.389617,
+            "recorded_at": "2024-03-19T16:27:40Z",
+            "speed": 88
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119685,
+            "lng": 0.389618,
+            "recorded_at": "2024-03-19T16:27:41Z",
+            "speed": 38
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119687,
+            "lng": 0.38962,
+            "recorded_at": "2024-03-19T16:27:42Z",
+            "speed": 36
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119689,
+            "lng": 0.389622,
+            "recorded_at": "2024-03-19T16:27:43Z",
+            "speed": 99
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.11969,
+            "lng": 0.389623,
+            "recorded_at": "2024-03-19T16:27:44Z",
+            "speed": 59
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119692,
+            "lng": 0.389625,
+            "recorded_at": "2024-03-19T16:27:45Z",
+            "speed": 75
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119694,
+            "lng": 0.389627,
+            "recorded_at": "2024-03-19T16:27:46Z",
+            "speed": 59
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119695,
+            "lng": 0.389628,
+            "recorded_at": "2024-03-19T16:27:47Z",
+            "speed": 22
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119697,
+            "lng": 0.38963,
+            "recorded_at": "2024-03-19T16:27:48Z",
+            "speed": 100
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119699,
+            "lng": 0.389632,
+            "recorded_at": "2024-03-19T16:27:49Z",
+            "speed": 47
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.1197,
+            "lng": 0.389633,
+            "recorded_at": "2024-03-19T16:27:50Z",
+            "speed": 75
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119702,
+            "lng": 0.389635,
+            "recorded_at": "2024-03-19T16:27:51Z",
+            "speed": 86
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119704,
+            "lng": 0.389637,
+            "recorded_at": "2024-03-19T16:27:52Z",
+            "speed": 60
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119705,
+            "lng": 0.389638,
+            "recorded_at": "2024-03-19T16:27:53Z",
+            "speed": 35
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119707,
+            "lng": 0.38964,
+            "recorded_at": "2024-03-19T16:27:54Z",
+            "speed": 67
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119709,
+            "lng": 0.389642,
+            "recorded_at": "2024-03-19T16:27:55Z",
+            "speed": 69
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.11971,
+            "lng": 0.389643,
+            "recorded_at": "2024-03-19T16:27:56Z",
+            "speed": 26
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119712,
+            "lng": 0.389645,
+            "recorded_at": "2024-03-19T16:27:57Z",
+            "speed": 62
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119714,
+            "lng": 0.389647,
+            "recorded_at": "2024-03-19T16:27:58Z",
+            "speed": 78
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119715,
+            "lng": 0.389648,
+            "recorded_at": "2024-03-19T16:27:59Z",
+            "speed": 87
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119717,
+            "lng": 0.38965,
+            "recorded_at": "2024-03-19T16:28:00Z",
+            "speed": 82
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119719,
+            "lng": 0.389652,
+            "recorded_at": "2024-03-19T16:28:01Z",
+            "speed": 45
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.11972,
+            "lng": 0.389653,
+            "recorded_at": "2024-03-19T16:28:02Z",
+            "speed": 27
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119722,
+            "lng": 0.389655,
+            "recorded_at": "2024-03-19T16:28:03Z",
+            "speed": 28
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119724,
+            "lng": 0.389657,
+            "recorded_at": "2024-03-19T16:28:04Z",
+            "speed": 94
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119725,
+            "lng": 0.389658,
+            "recorded_at": "2024-03-19T16:28:05Z",
+            "speed": 24
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119727,
+            "lng": 0.38966,
+            "recorded_at": "2024-03-19T16:28:06Z",
+            "speed": 20
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119729,
+            "lng": 0.389662,
+            "recorded_at": "2024-03-19T16:28:07Z",
+            "speed": 52
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.11973,
+            "lng": 0.389663,
+            "recorded_at": "2024-03-19T16:28:08Z",
+            "speed": 85
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119732,
+            "lng": 0.389665,
+            "recorded_at": "2024-03-19T16:28:09Z",
+            "speed": 73
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119734,
+            "lng": 0.389667,
+            "recorded_at": "2024-03-19T16:28:10Z",
+            "speed": 76
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119735,
+            "lng": 0.389668,
+            "recorded_at": "2024-03-19T16:28:11Z",
+            "speed": 50
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119737,
+            "lng": 0.38967,
+            "recorded_at": "2024-03-19T16:28:12Z",
+            "speed": 39
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119739,
+            "lng": 0.389672,
+            "recorded_at": "2024-03-19T16:28:13Z",
+            "speed": 67
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.11974,
+            "lng": 0.389673,
+            "recorded_at": "2024-03-19T16:28:14Z",
+            "speed": 45
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119742,
+            "lng": 0.389675,
+            "recorded_at": "2024-03-19T16:28:15Z",
+            "speed": 91
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119744,
+            "lng": 0.389677,
+            "recorded_at": "2024-03-19T16:28:16Z",
+            "speed": 66
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119745,
+            "lng": 0.389678,
+            "recorded_at": "2024-03-19T16:28:17Z",
+            "speed": 66
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119747,
+            "lng": 0.38968,
+            "recorded_at": "2024-03-19T16:28:18Z",
+            "speed": 57
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119749,
+            "lng": 0.389682,
+            "recorded_at": "2024-03-19T16:28:19Z",
+            "speed": 22
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.11975,
+            "lng": 0.389683,
+            "recorded_at": "2024-03-19T16:28:20Z",
+            "speed": 43
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119752,
+            "lng": 0.389685,
+            "recorded_at": "2024-03-19T16:28:21Z",
+            "speed": 56
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119754,
+            "lng": 0.389687,
+            "recorded_at": "2024-03-19T16:28:22Z",
+            "speed": 65
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119755,
+            "lng": 0.389688,
+            "recorded_at": "2024-03-19T16:28:23Z",
+            "speed": 82
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119757,
+            "lng": 0.38969,
+            "recorded_at": "2024-03-19T16:28:24Z",
+            "speed": 33
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119759,
+            "lng": 0.389692,
+            "recorded_at": "2024-03-19T16:28:25Z",
+            "speed": 56
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.11976,
+            "lng": 0.389693,
+            "recorded_at": "2024-03-19T16:28:26Z",
+            "speed": 51
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119762,
+            "lng": 0.389695,
+            "recorded_at": "2024-03-19T16:28:27Z",
+            "speed": 53
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119764,
+            "lng": 0.389697,
+            "recorded_at": "2024-03-19T16:28:28Z",
+            "speed": 57
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119765,
+            "lng": 0.389698,
+            "recorded_at": "2024-03-19T16:28:29Z",
+            "speed": 67
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119767,
+            "lng": 0.3897,
+            "recorded_at": "2024-03-19T16:28:30Z",
+            "speed": 84
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119769,
+            "lng": 0.389702,
+            "recorded_at": "2024-03-19T16:28:31Z",
+            "speed": 41
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.11977,
+            "lng": 0.389703,
+            "recorded_at": "2024-03-19T16:28:32Z",
+            "speed": 73
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119772,
+            "lng": 0.389705,
+            "recorded_at": "2024-03-19T16:28:33Z",
+            "speed": 89
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119774,
+            "lng": 0.389707,
+            "recorded_at": "2024-03-19T16:28:34Z",
+            "speed": 98
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119775,
+            "lng": 0.389708,
+            "recorded_at": "2024-03-19T16:28:35Z",
+            "speed": 74
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119777,
+            "lng": 0.38971,
+            "recorded_at": "2024-03-19T16:28:36Z",
+            "speed": 93
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119779,
+            "lng": 0.389712,
+            "recorded_at": "2024-03-19T16:28:37Z",
+            "speed": 71
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.11978,
+            "lng": 0.389713,
+            "recorded_at": "2024-03-19T16:28:38Z",
+            "speed": 30
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119782,
+            "lng": 0.389715,
+            "recorded_at": "2024-03-19T16:28:39Z",
+            "speed": 98
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119784,
+            "lng": 0.389717,
+            "recorded_at": "2024-03-19T16:28:40Z",
+            "speed": 87
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119785,
+            "lng": 0.389718,
+            "recorded_at": "2024-03-19T16:28:41Z",
+            "speed": 42
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119787,
+            "lng": 0.38972,
+            "recorded_at": "2024-03-19T16:28:42Z",
+            "speed": 80
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119789,
+            "lng": 0.389722,
+            "recorded_at": "2024-03-19T16:28:43Z",
+            "speed": 100
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.11979,
+            "lng": 0.389723,
+            "recorded_at": "2024-03-19T16:28:44Z",
+            "speed": 96
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119792,
+            "lng": 0.389725,
+            "recorded_at": "2024-03-19T16:28:45Z",
+            "speed": 41
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119794,
+            "lng": 0.389727,
+            "recorded_at": "2024-03-19T16:28:46Z",
+            "speed": 79
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119795,
+            "lng": 0.389728,
+            "recorded_at": "2024-03-19T16:28:47Z",
+            "speed": 23
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119797,
+            "lng": 0.38973,
+            "recorded_at": "2024-03-19T16:28:48Z",
+            "speed": 39
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119799,
+            "lng": 0.389732,
+            "recorded_at": "2024-03-19T16:28:49Z",
+            "speed": 86
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.1198,
+            "lng": 0.389733,
+            "recorded_at": "2024-03-19T16:28:50Z",
+            "speed": 81
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119802,
+            "lng": 0.389735,
+            "recorded_at": "2024-03-19T16:28:51Z",
+            "speed": 21
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119804,
+            "lng": 0.389737,
+            "recorded_at": "2024-03-19T16:28:52Z",
+            "speed": 48
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119805,
+            "lng": 0.389738,
+            "recorded_at": "2024-03-19T16:28:53Z",
+            "speed": 56
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119807,
+            "lng": 0.38974,
+            "recorded_at": "2024-03-19T16:28:54Z",
+            "speed": 35
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119809,
+            "lng": 0.389742,
+            "recorded_at": "2024-03-19T16:28:55Z",
+            "speed": 64
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.11981,
+            "lng": 0.389743,
+            "recorded_at": "2024-03-19T16:28:56Z",
+            "speed": 38
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119812,
+            "lng": 0.389745,
+            "recorded_at": "2024-03-19T16:28:57Z",
+            "speed": 49
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119814,
+            "lng": 0.389747,
+            "recorded_at": "2024-03-19T16:28:58Z",
+            "speed": 62
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119815,
+            "lng": 0.389748,
+            "recorded_at": "2024-03-19T16:28:59Z",
+            "speed": 92
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119817,
+            "lng": 0.38975,
+            "recorded_at": "2024-03-19T16:29:00Z",
+            "speed": 75
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119819,
+            "lng": 0.389752,
+            "recorded_at": "2024-03-19T16:29:01Z",
+            "speed": 59
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.11982,
+            "lng": 0.389753,
+            "recorded_at": "2024-03-19T16:29:02Z",
+            "speed": 30
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119822,
+            "lng": 0.389755,
+            "recorded_at": "2024-03-19T16:29:03Z",
+            "speed": 93
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119824,
+            "lng": 0.389757,
+            "recorded_at": "2024-03-19T16:29:04Z",
+            "speed": 46
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119825,
+            "lng": 0.389758,
+            "recorded_at": "2024-03-19T16:29:05Z",
+            "speed": 56
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119827,
+            "lng": 0.38976,
+            "recorded_at": "2024-03-19T16:29:06Z",
+            "speed": 88
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119829,
+            "lng": 0.389762,
+            "recorded_at": "2024-03-19T16:29:07Z",
+            "speed": 65
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.11983,
+            "lng": 0.389763,
+            "recorded_at": "2024-03-19T16:29:08Z",
+            "speed": 57
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119832,
+            "lng": 0.389765,
+            "recorded_at": "2024-03-19T16:29:09Z",
+            "speed": 80
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119834,
+            "lng": 0.389767,
+            "recorded_at": "2024-03-19T16:29:10Z",
+            "speed": 29
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119835,
+            "lng": 0.389768,
+            "recorded_at": "2024-03-19T16:29:11Z",
+            "speed": 43
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119837,
+            "lng": 0.38977,
+            "recorded_at": "2024-03-19T16:29:12Z",
+            "speed": 26
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119839,
+            "lng": 0.389772,
+            "recorded_at": "2024-03-19T16:29:13Z",
+            "speed": 65
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.11984,
+            "lng": 0.389773,
+            "recorded_at": "2024-03-19T16:29:14Z",
+            "speed": 56
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119842,
+            "lng": 0.389775,
+            "recorded_at": "2024-03-19T16:29:15Z",
+            "speed": 33
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119844,
+            "lng": 0.389777,
+            "recorded_at": "2024-03-19T16:29:16Z",
+            "speed": 84
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119845,
+            "lng": 0.389778,
+            "recorded_at": "2024-03-19T16:29:17Z",
+            "speed": 30
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119847,
+            "lng": 0.38978,
+            "recorded_at": "2024-03-19T16:29:18Z",
+            "speed": 69
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119849,
+            "lng": 0.389782,
+            "recorded_at": "2024-03-19T16:29:19Z",
+            "speed": 33
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.11985,
+            "lng": 0.389783,
+            "recorded_at": "2024-03-19T16:29:20Z",
+            "speed": 85
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119852,
+            "lng": 0.389785,
+            "recorded_at": "2024-03-19T16:29:21Z",
+            "speed": 65
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119854,
+            "lng": 0.389787,
+            "recorded_at": "2024-03-19T16:29:22Z",
+            "speed": 85
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119855,
+            "lng": 0.389788,
+            "recorded_at": "2024-03-19T16:29:23Z",
+            "speed": 50
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119857,
+            "lng": 0.38979,
+            "recorded_at": "2024-03-19T16:29:24Z",
+            "speed": 46
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119859,
+            "lng": 0.389792,
+            "recorded_at": "2024-03-19T16:29:25Z",
+            "speed": 82
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.11986,
+            "lng": 0.389793,
+            "recorded_at": "2024-03-19T16:29:26Z",
+            "speed": 50
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119862,
+            "lng": 0.389795,
+            "recorded_at": "2024-03-19T16:29:27Z",
+            "speed": 31
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119864,
+            "lng": 0.389797,
+            "recorded_at": "2024-03-19T16:29:28Z",
+            "speed": 82
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119865,
+            "lng": 0.389798,
+            "recorded_at": "2024-03-19T16:29:29Z",
+            "speed": 93
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119867,
+            "lng": 0.3898,
+            "recorded_at": "2024-03-19T16:29:30Z",
+            "speed": 41
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119869,
+            "lng": 0.389802,
+            "recorded_at": "2024-03-19T16:29:31Z",
+            "speed": 28
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.11987,
+            "lng": 0.389803,
+            "recorded_at": "2024-03-19T16:29:32Z",
+            "speed": 81
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119872,
+            "lng": 0.389805,
+            "recorded_at": "2024-03-19T16:29:33Z",
+            "speed": 28
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119874,
+            "lng": 0.389807,
+            "recorded_at": "2024-03-19T16:29:34Z",
+            "speed": 81
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119875,
+            "lng": 0.389808,
+            "recorded_at": "2024-03-19T16:29:35Z",
+            "speed": 45
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119877,
+            "lng": 0.38981,
+            "recorded_at": "2024-03-19T16:29:36Z",
+            "speed": 94
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119879,
+            "lng": 0.389812,
+            "recorded_at": "2024-03-19T16:29:37Z",
+            "speed": 32
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.11988,
+            "lng": 0.389813,
+            "recorded_at": "2024-03-19T16:29:38Z",
+            "speed": 33
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119882,
+            "lng": 0.389815,
+            "recorded_at": "2024-03-19T16:29:39Z",
+            "speed": 26
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119884,
+            "lng": 0.389817,
+            "recorded_at": "2024-03-19T16:29:40Z",
+            "speed": 33
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119885,
+            "lng": 0.389818,
+            "recorded_at": "2024-03-19T16:29:41Z",
+            "speed": 68
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119887,
+            "lng": 0.38982,
+            "recorded_at": "2024-03-19T16:29:42Z",
+            "speed": 61
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119889,
+            "lng": 0.389822,
+            "recorded_at": "2024-03-19T16:29:43Z",
+            "speed": 88
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.11989,
+            "lng": 0.389823,
+            "recorded_at": "2024-03-19T16:29:44Z",
+            "speed": 41
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119892,
+            "lng": 0.389825,
+            "recorded_at": "2024-03-19T16:29:45Z",
+            "speed": 95
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119894,
+            "lng": 0.389827,
+            "recorded_at": "2024-03-19T16:29:46Z",
+            "speed": 20
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119895,
+            "lng": 0.389828,
+            "recorded_at": "2024-03-19T16:29:47Z",
+            "speed": 76
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119897,
+            "lng": 0.38983,
+            "recorded_at": "2024-03-19T16:29:48Z",
+            "speed": 27
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119899,
+            "lng": 0.389832,
+            "recorded_at": "2024-03-19T16:29:49Z",
+            "speed": 35
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.1199,
+            "lng": 0.389833,
+            "recorded_at": "2024-03-19T16:29:50Z",
+            "speed": 76
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119902,
+            "lng": 0.389835,
+            "recorded_at": "2024-03-19T16:29:51Z",
+            "speed": 92
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119904,
+            "lng": 0.389837,
+            "recorded_at": "2024-03-19T16:29:52Z",
+            "speed": 49
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119905,
+            "lng": 0.389838,
+            "recorded_at": "2024-03-19T16:29:53Z",
+            "speed": 50
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119907,
+            "lng": 0.38984,
+            "recorded_at": "2024-03-19T16:29:54Z",
+            "speed": 81
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119909,
+            "lng": 0.389842,
+            "recorded_at": "2024-03-19T16:29:55Z",
+            "speed": 80
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.11991,
+            "lng": 0.389843,
+            "recorded_at": "2024-03-19T16:29:56Z",
+            "speed": 20
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119912,
+            "lng": 0.389845,
+            "recorded_at": "2024-03-19T16:29:57Z",
+            "speed": 100
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119914,
+            "lng": 0.389847,
+            "recorded_at": "2024-03-19T16:29:58Z",
+            "speed": 57
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119915,
+            "lng": 0.389848,
+            "recorded_at": "2024-03-19T16:29:59Z",
+            "speed": 44
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119917,
+            "lng": 0.38985,
+            "recorded_at": "2024-03-19T16:30:00Z",
+            "speed": 71
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119919,
+            "lng": 0.389852,
+            "recorded_at": "2024-03-19T16:30:01Z",
+            "speed": 50
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.11992,
+            "lng": 0.389853,
+            "recorded_at": "2024-03-19T16:30:02Z",
+            "speed": 46
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119922,
+            "lng": 0.389855,
+            "recorded_at": "2024-03-19T16:30:03Z",
+            "speed": 89
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119924,
+            "lng": 0.389857,
+            "recorded_at": "2024-03-19T16:30:04Z",
+            "speed": 40
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119925,
+            "lng": 0.389858,
+            "recorded_at": "2024-03-19T16:30:05Z",
+            "speed": 88
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119927,
+            "lng": 0.38986,
+            "recorded_at": "2024-03-19T16:30:06Z",
+            "speed": 64
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119929,
+            "lng": 0.389862,
+            "recorded_at": "2024-03-19T16:30:07Z",
+            "speed": 52
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.11993,
+            "lng": 0.389863,
+            "recorded_at": "2024-03-19T16:30:08Z",
+            "speed": 79
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119932,
+            "lng": 0.389865,
+            "recorded_at": "2024-03-19T16:30:09Z",
+            "speed": 69
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119934,
+            "lng": 0.389867,
+            "recorded_at": "2024-03-19T16:30:10Z",
+            "speed": 93
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119935,
+            "lng": 0.389868,
+            "recorded_at": "2024-03-19T16:30:11Z",
+            "speed": 70
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119937,
+            "lng": 0.38987,
+            "recorded_at": "2024-03-19T16:30:12Z",
+            "speed": 92
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119939,
+            "lng": 0.389872,
+            "recorded_at": "2024-03-19T16:30:13Z",
+            "speed": 33
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.11994,
+            "lng": 0.389873,
+            "recorded_at": "2024-03-19T16:30:14Z",
+            "speed": 93
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119942,
+            "lng": 0.389875,
+            "recorded_at": "2024-03-19T16:30:15Z",
+            "speed": 27
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119944,
+            "lng": 0.389877,
+            "recorded_at": "2024-03-19T16:30:16Z",
+            "speed": 51
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119945,
+            "lng": 0.389878,
+            "recorded_at": "2024-03-19T16:30:17Z",
+            "speed": 39
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119947,
+            "lng": 0.38988,
+            "recorded_at": "2024-03-19T16:30:18Z",
+            "speed": 38
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119949,
+            "lng": 0.389882,
+            "recorded_at": "2024-03-19T16:30:19Z",
+            "speed": 84
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.11995,
+            "lng": 0.389883,
+            "recorded_at": "2024-03-19T16:30:20Z",
+            "speed": 57
+        },
+        {
+            "gps_quality": 0,
+            "lat": 51.119952,
+            "lng": 0.389885,
+            "recorded_at": "2024-03-19T16:30:21Z",
+            "speed": 27
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119954,
+            "lng": 0.389887,
+            "recorded_at": "2024-03-19T16:30:22Z",
+            "speed": 29
+        },
+        {
+            "gps_quality": 1,
+            "lat": 51.119955,
+            "lng": 0.389888,
+            "recorded_at": "2024-03-19T16:30:23Z",
+            "speed": 63
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+openapi: '2.6.0'
+info:
+  title: 'Vehicle Trip Ingestion and Enrichment'
+  version: '1.0.0'
+  description: 'This AsyncAPI specification defines the events related to vehicle trips, including ingestion and enrichment processes.'
+
+components:
+  schemas:
+
+    payload:
+      type: object
+      properties:
+        id:
+          type: string
+        version:
+          type: string
+        eventTime:
+          type: string
+          format: date-time
+        eventType:
+          type: string
+        data:
+          type: object
+          properties:
+            entitlement:
+              type: object
+              properties:
+                customerId:
+                  type: string
+                  format: uuid
+                locale:
+                  type: string
+            privacy:
+              type: object
+              properties:
+                isPrivacyModeEnabled:
+                  type: boolean
+            policy:
+              type: object
+              properties:
+                inUseAt:
+                  type: string
+                  format: date-time
+                retrievedAt:
+                  type: string
+                  format: date-time
+                vehicle:
+                  type: object
+                  properties:
+                    vin:
+                      type: string
+                policies:
+                  type: array
+                  items:
+                    type: object
+                    properties:
+                      id:
+                        type: string
+                      vehicleSignals:
+                        type: array
+                        items:
+                          type: string
+                      notBefore:
+                        type: string
+                        format: date-time
+                      expiresAt:
+                        type: string
+                        format: date-time
+            trip:
+              type: object
+              properties:
+                vin:
+                  type: string
+                tripId:
+                  type: string
+                tripDistance:
+                  type: number
+                tripStartTimestamp:
+                  type: string
+                  format: date-time
+                tripStartLat:
+                  type: number
+                tripStartLon:
+                  type: number
+                tripEndTimestamp:
+                  type: string
+                  format: date-time
+                tripEndLat:
+                  type: number
+                tripEndLon:
+                  type: number
+                fuelLevel:
+                  type: number
+                  minimum: 0
+                  maximum: 100
+                url:
+                  type: string
+                  format: uri

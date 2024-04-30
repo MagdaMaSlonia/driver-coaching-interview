@@ -1,0 +1,82 @@
+swagger: "2.0"
+info:
+  title: Trip Service API
+  description: This API retrieves trip data for Toyota vehicles based on device type, vehicle identification number (VIN), and datetime.
+  version: 1.0.0
+host: trip-service.toyotaconnectedeurope.io
+schemes:
+  - https
+basePath: /
+produces:
+  - application/json
+paths:
+  /trip:
+    get:
+      summary: Retrieve trip data
+      description: |
+        Fetches trip data for a specified vehicle, identified by its VIN, device type, and the datetime of the trip.
+      parameters:
+        - name: vin
+          in: query
+          required: true
+          type: string
+          description: The Vehicle Identification Number.
+          example: "vin1"
+        - name: tripStartTimestamp
+          in: query
+          required: true
+          type: string
+          format: date-time
+          description: The datetime of the trip in ISO 8601 format.
+          example: "2023-11-20T13:54:58Z"
+      responses:
+        200:
+          description: Successful response with the trip data.
+          schema:
+            type: object
+            properties:
+              tripId:
+                type: string
+                example: "trip123456789"
+              vin:
+                type: string
+                example: "vin1"
+              tripStartTimestamp:
+                type: string
+                format: date-time
+                example: "2023-11-20T13:54:58Z"
+              tripEndTimestamp:
+                type: string
+                format: date-time
+                example: "2023-11-20T14:00:00Z"
+              events:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    gps_quality:
+                      type: integer
+                      description: "Good quality if 1, not good quality if 0"
+                    lat:
+                      description: Latitude (in degrees)
+                      type: number
+                      format: float
+                      minimum: -90
+                      maximum: 90
+                    lng:
+                      type: number
+                      description: Longitude (in degrees)
+                      format: float
+                      minimum: -180
+                      maximum: 180
+                    recorded_at:
+                      type: string
+                      format: date-time
+                    speed:
+                      type: integer
+                      description: "Speed in km/h"
+
+        400:
+          description: Bad request, possibly due to missing or invalid parameters.
+        404:
+          description: Trip data not found for the given parameters.

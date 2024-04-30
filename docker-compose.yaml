@@ -1,0 +1,32 @@
+version: "3"
+
+services:
+  consumer:
+    depends_on:
+      - kafka
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: result/latest
+    networks:
+      - broker-kafka
+
+
+  kafka:
+    image: confluentinc/confluent-local:7.6.0
+    container_name: kafka
+    environment:
+      KAFKA_ADVERTISED_HOST_NAME: kafka:9092
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://localhost:9092,PLAINTEXT_HOST://localhost:9092,PLAINTEXT_HOST2://kafka:9101
+      KAFKA_LISTENERS: PLAINTEXT://localhost:29092,CONTROLLER://localhost:29093,PLAINTEXT_HOST://0.0.0.0:9092,PLAINTEXT_HOST2://0.0.0.0:9101
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: CONTROLLER:PLAINTEXT,PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT,PLAINTEXT_HOST2:PLAINTEXT
+    networks:
+      - broker-kafka
+    ports:
+      - "8082:8082"
+      - "9092:9092"
+      - "9101:9101"
+
+networks:
+  broker-kafka:
+    driver: bridge

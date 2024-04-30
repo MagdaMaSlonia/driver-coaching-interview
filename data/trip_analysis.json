@@ -1,0 +1,10 @@
+{
+    "customerId": "ef28f877-206a-44c3-8af9-713f54657482",
+    "tripId": "7cc5df0d-4b72-4b2b-b1ed-20835a1b7f4b",
+    "vin": "VIN100362",
+    "tripStartTimestamp": "2024-03-19 16:25:24.262139",
+    "tripEndTimestamp": "2024-03-19 16:30:24.262139",
+    "data": {
+      "braking_events_counter": 5
+    }
+}
